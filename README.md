@@ -1,4 +1,3 @@
-# cm-public
 # CodeMinder — Engineering Intelligence Platform
 
 AI-powered triage for engineering data. Upload logs, crash reports, scanner outputs, customer feedback and more — get deduplicated, prioritized action items linked to business impact.
